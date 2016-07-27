@@ -1,0 +1,52 @@
+* {
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+.body1 {
+	text-align: center;
+	font-size: 370%;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	margin: 0 0;
+	background: url("http://i.imgur.com/XDhybfv.jpg") repeat 100%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+h2 {
+	text-align: center;
+	font-size: 275%;
+	color: #E5E5E5;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	margin: 1%;
+}
+
+/*---Start Parallax---*/
+.parallax {
+	background: url("http://i.imgur.com/pRnucMs.jpg") repeat fixed 100%;
+}
+.parallax-inner {
+	padding-top: 17%;
+	padding-bottom: 17%;
+}
+
+
+
+/*---End Parallax---*/
+
+.body2 {
+	text-align: center;
+	font-size: 370%;
+	color: #ffffff;
+	text-transform: uppercase;
+	letter-spacing: 1%;
+	margin: 0 0;
+	background: url("http://i.imgur.com/NBVhCdv.jpg") repeat 100%;
+	padding-top: 20%;
+	padding-bottom: 20%;
+}
+
+
+
