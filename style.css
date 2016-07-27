@@ -17,6 +17,7 @@
 	width: 30%;
 	height: 5px;
 	vertical-align: top;
+	font-family: "Arial", Times, serif;
 	
 
 }
@@ -35,6 +36,7 @@
 	position: absolute;
 	z-index: 0;
 	
+	
 
 	
 }
@@ -52,7 +54,7 @@
 	width: 30%;
 	height: 5px;
 	vertical-align: top;
-	
+	font-family: "Arial", Times, serif;
 }
 h2 {
 	text-align: center;
@@ -61,6 +63,7 @@ h2 {
 	text-transform: uppercase;
 	letter-spacing: 20%;
 	margin: 1%;
+	font-family: "Arial", Times, serif;
 	
 }
 span {
@@ -90,6 +93,7 @@ span {
 	background: url("http://i.imgur.com/NBVhCdv.jpg") repeat 100%;
 	padding-top: 25%;
 	padding-bottom: 25%;
+	font-family: "Arial", Times, serif;
 }
 
 
