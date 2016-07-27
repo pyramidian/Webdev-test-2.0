@@ -9,10 +9,12 @@
 	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 1%;
-	margin: 0 0;
-	background: url("http://i.imgur.com/XDhybfv.jpg") repeat 100%;
+	margin: 0 0 0 0;
+	background: url("http://i3.mirror.co.uk/incoming/article8075004.ece/ALTERNATES/s1200/Harambe.jpg") no-repeat 100%;
 	padding-top: 20%;
 	padding-bottom: 20%;
+	background-size: cover;
+	background-position: center center;
 }
 h2 {
 	text-align: center;
@@ -38,14 +40,14 @@ h2 {
 
 .body2 {
 	text-align: center;
-	font-size: 370%;
+	font-size: 270%;
 	color: #ffffff;
 	text-transform: uppercase;
 	letter-spacing: 1%;
 	margin: 0 0;
 	background: url("http://i.imgur.com/NBVhCdv.jpg") repeat 100%;
-	padding-top: 20%;
-	padding-bottom: 20%;
+	padding-top: 25%;
+	padding-bottom: 25%;
 }
 
 
